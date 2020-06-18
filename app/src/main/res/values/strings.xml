@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">spinner</string>
+
+
+    <string-array name="food">
+        <item>鹽酥雞</item>
+        <item>炒飯</item>
+        <item>蝦仁炒飯</item>
+        <item>牛肉炒麵</item>
+    </string-array>
+
+    <string-array name="drink">
+        <item>蘋果醋</item>
+        <item>柳橙汁</item>
+        <item>薄荷</item>
+    </string-array>
+
+
+</resources>
